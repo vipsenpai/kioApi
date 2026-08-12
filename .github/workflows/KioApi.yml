@@ -35,7 +35,7 @@ jobs:
         python-version: '3.11'
 
     - name: Run Script
-      run: python -u KioTvPlus/kiotvplus.py
+      run: python -u kiotvplus.py
 
     - name: Commit & Push Output
       run: |
