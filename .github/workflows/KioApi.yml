@@ -1,0 +1,60 @@
+name: Auto KioApi json
+
+on:
+  schedule:
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Prevent parallel conflicts (same as Tata style)
+concurrency:
+  group: Kioapi-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # REQUIRED for rebase
+
+    - name: Install 7zip
+      run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    - name: Extract ZIP Securely
+      run: 7z x KioTvPlus.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run Script
+      run: python -u KioTvPlus/kiotvplus.py
+
+    - name: Commit & Push Output
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        # Add file if exists
+        git add channels_formatted.json || echo "No file found"
+
+        # Skip commit if no real changes
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto update"
+
+        # 🔥 CRITICAL: sync before push
+        git pull --rebase origin main
+
+        # Push safely
+        git push origin main
