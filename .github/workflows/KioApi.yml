@@ -34,7 +34,7 @@ jobs:
       with:
         python-version: '3.11'
 
-     - name: Install Dependencies
+    - name: Install Dependencies
       run: pip install requests
 
     - name: Run Script
