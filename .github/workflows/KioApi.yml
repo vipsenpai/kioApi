@@ -43,7 +43,7 @@ jobs:
         git config user.email "actions@github.com"
 
         # Add file if exists
-        git add channels_formatted.json || echo "No file found"
+        git add Kio.json || echo "No file found"
 
         # Skip commit if no real changes
         if git diff --cached --quiet; then
