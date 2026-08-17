@@ -11290,9 +11290,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_BTS/WDVLive/index.mpd",
     "license_url": "a7a544c972e7520fbe89f80191c21a7b:f7e753d587b7e33814e6eeb2a4c97d99",
     "headers": {
-      "cookie": "__hdnea__=st=1786962953~exp=1786966553~acl=/bpk-tv/TLCHDEnglish_BTS/WDVLive/*~hmac=3ab9109f1ced1562caf2ae7f7a9647a6f3ea2fd3fd727d4d8bd444a911c6f2d1"
+      "cookie": "__hdnea__=st=1786982044~exp=1786985644~acl=/bpk-tv/TLCHDEnglish_BTS/WDVLive/*~hmac=84ab8e77158eca6af2f526cd7b6bbc6f7b44786d9cec9552b438eabac9288836"
     },
-    "expires_in": "1786966553"
+    "expires_in": "1786985644"
   },
   {
     "type": "dash",
