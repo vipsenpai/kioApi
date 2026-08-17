@@ -295,9 +295,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SUN_Neo_BTS/WDVLive/index.mpd",
     "license_url": "eb1144c7fd6e58a68123e7c586ce6e25:b03cb03960713d69ec37c0cded721fc5",
     "headers": {
-      "cookie": "__hdnea__=st=1786951803~exp=1786973403~acl=/*~hmac=f1566cb7f22d4d281e16b8e1b9f0eb54e91cc7815391da6483f83e9aa5205ca6"
+      "cookie": ""
     },
-    "expires_in": "1786973403"
+    "expires_in": ""
   },
   {
     "type": "dash",
