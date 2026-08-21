@@ -12640,9 +12640,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd",
     "license_url": "a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2",
     "headers": {
-      "cookie": "__hdnea__=st=1787331309~exp=1787352909~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=13c6fec8f53f5fe5e8ca44fa5f73c59a3f36338e22ef289a36e4988643ab0948"
+      "cookie": "__hdnea__=st=1787353055~exp=1787374655~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=b39e904d96fa55da2e26f07a2e9ca4bc0ed8bb533e182c674f44d24aab3352f0"
     },
-    "expires_in": "1787352909"
+    "expires_in": "1787374655"
   },
   {
     "type": "dash",
