@@ -11275,9 +11275,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_BTS/WDVLive/index.mpd",
     "license_url": "a7a544c972e7520fbe89f80191c21a7b:f7e753d587b7e33814e6eeb2a4c97d99",
     "headers": {
-      "cookie": "__hdnea__=st=1787376692~exp=1787380292~acl=/bpk-tv/TLCHDEnglish_BTS/WDVLive/*~hmac=23ab7e981836fe736c690a12845e5292d123a729e620dff9effe8d437cd3ce1b"
+      "cookie": "__hdnea__=st=1787396018~exp=1787399618~acl=/bpk-tv/TLCHDEnglish_BTS/WDVLive/*~hmac=4be1ca7c5f7471e081f83db6129bba8d741eedb90b3760103befe7b0a490967a"
     },
-    "expires_in": "1787380292"
+    "expires_in": "1787399618"
   },
   {
     "type": "dash",
