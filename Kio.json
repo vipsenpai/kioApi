@@ -1900,9 +1900,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd",
     "license_url": "1450e9d1c9a55f1286de4248af9cea63:0166ba733e295ded7095629c33790c0e",
     "headers": {
-      "cookie": ""
+      "cookie": "__hdnea__=st=1787360217~exp=1787363817~acl=/bpk-tv/AnimalPlanetHDEng_BTS/WDVLive/*~hmac=87c482044e8ba28aa388534f434b786fc4cae8cf445967ce9abb3a4e7e9f47d4"
     },
-    "expires_in": ""
+    "expires_in": "1787363817"
   },
   {
     "type": "dash",
