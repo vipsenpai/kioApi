@@ -11320,9 +11320,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd",
     "license_url": "021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424",
     "headers": {
-      "cookie": "__hdnea__=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7"
+      "cookie": "__hdnea__=st=1787561914~exp=1787565514~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=93a81feb1de46ed414283c7198b7af4ea4aa8e410c665bcbd8360733a0a2296f"
     },
-    "expires_in": "1787547505"
+    "expires_in": "1787565514"
   },
   {
     "type": "dash",
