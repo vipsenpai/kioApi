@@ -625,9 +625,9 @@
     "mpd_url": "",
     "license_url": "67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4",
     "headers": {
-      "cookie": "__hdnea__=st=1787575514~exp=1787597114~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=aa1be899377966b401f4ea9686f63c97d39af107e6957c71f537e4831695f1b8"
+      "cookie": ""
     },
-    "expires_in": "1787597114"
+    "expires_in": ""
   },
   {
     "type": "dash",
