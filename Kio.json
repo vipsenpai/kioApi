@@ -625,9 +625,9 @@
     "mpd_url": "",
     "license_url": "67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4",
     "headers": {
-      "cookie": "__hdnea__=st=1787600919~exp=1787604519~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=144b46888cd496ff29f39e632dff8d64381292f21dbcb3bab496434983f0115e"
+      "cookie": "__hdnea__=st=1787619217~exp=1787622817~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=fa35d96bae20e1d507be891c96d0769ecd4fe4791bfccc1bcc95c9bde6fdbe6c"
     },
-    "expires_in": "1787604519"
+    "expires_in": "1787622817"
   },
   {
     "type": "dash",
@@ -730,9 +730,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AndPictures_MOB/WDVLive/index.mpd",
     "license_url": "d6f310b8bfe75a3ab8cd259262393222:b538ae8613ea5f95694df024ee7b91fd",
     "headers": {
-      "cookie": "__hdnea__=st=1787601210~exp=1787604810~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=b0cfed37205eef2e697c46b5e878470f27c58d54edff47298165e122065b14ca"
+      "cookie": "__hdnea__=st=1787621727~exp=1787625327~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=cf4d937463708ebc553cbed8e359047b58ead65caae52cdc0b8a85d29b1a02d1"
     },
-    "expires_in": "1787604810"
+    "expires_in": "1787625327"
   },
   {
     "type": "dash",
@@ -1720,9 +1720,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Eng_MOB/WDVLive/index.mpd",
     "license_url": "1025acf964795689982726e2d16a73c5:d88575df3e3d1adb7a82da65f0000aa6",
     "headers": {
-      "cookie": "__hdnea__=st=1787600917~exp=1787604517~acl=/bpk-tv/Discovery_Channel_Eng_BTS/WDVLive/*~hmac=a2e4c4672e059d5dd809d0a782c52f13c6f92d620df7ccc1db5549f78a65cf75"
+      "cookie": "__hdnea__=st=1787618995~exp=1787622595~acl=/bpk-tv/Discovery_Channel_Eng_BTS/WDVLive/*~hmac=4f3983dfa91e15f13c1cffa115dcdd5316a17497ee9e5baca47a8b4fb95eb817"
     },
-    "expires_in": "1787604517"
+    "expires_in": "1787622595"
   },
   {
     "type": "dash",
@@ -1735,9 +1735,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDEng_MOB/WDVLive/index.mpd",
     "license_url": "a2a9c24afabd5fe0aa2ce9d4fa09f892:8d1869108cc2ee010b756662ee8ec65e",
     "headers": {
-      "cookie": "__hdnea__=st=1787600920~exp=1787604520~acl=/bpk-tv/DiscoveryHDEng_BTS/WDVLive/*~hmac=66fdc05881655fffd1ec15d46426f230ba0f2aaf50fcd79230d32705ce8a09d2"
+      "cookie": "__hdnea__=st=1787618999~exp=1787622599~acl=/bpk-tv/DiscoveryHDEng_BTS/WDVLive/*~hmac=6bcd47824ed67ca4bc216a3205c3b40b934ebdd176d219314fda4da7fe74f863"
     },
-    "expires_in": "1787604520"
+    "expires_in": "1787622599"
   },
   {
     "type": "dash",
@@ -1900,9 +1900,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd",
     "license_url": "1450e9d1c9a55f1286de4248af9cea63:0166ba733e295ded7095629c33790c0e",
     "headers": {
-      "cookie": "__hdnea__=st=1787600922~exp=1787604522~acl=/bpk-tv/AnimalPlanetHDEng_BTS/WDVLive/*~hmac=84d36a5aa3c122358b42648e344b06e45164557c85cbea3b01968d9ce9b3a0b6"
+      "cookie": "__hdnea__=st=1787618996~exp=1787622596~acl=/bpk-tv/AnimalPlanetHDEng_BTS/WDVLive/*~hmac=de1ea41c42c04f8fdefe0a456d52d58e0bae302867fc176aae83555b9a40626a"
     },
-    "expires_in": "1787604522"
+    "expires_in": "1787622596"
   },
   {
     "type": "dash",
@@ -11275,9 +11275,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_BTS/WDVLive/index.mpd",
     "license_url": "a7a544c972e7520fbe89f80191c21a7b:f7e753d587b7e33814e6eeb2a4c97d99",
     "headers": {
-      "cookie": "__hdnea__=st=1787603720~exp=1787607320~acl=/bpk-tv/TLCHDEnglish_BTS/WDVLive/*~hmac=10dc4fc62a73fa5a10cb9e3f59204459abf2570e5a913ac9b4500b47f932b647"
+      "cookie": "__hdnea__=st=1787621774~exp=1787625374~acl=/bpk-tv/TLCHDEnglish_BTS/WDVLive/*~hmac=67f8bf63c951a426a1081b11471b66ba659c497fb8ec6a5287c15f88e9e7d2eb"
     },
-    "expires_in": "1787607320"
+    "expires_in": "1787625374"
   },
   {
     "type": "dash",
@@ -11320,9 +11320,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd",
     "license_url": "021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424",
     "headers": {
-      "cookie": "__hdnea__=st=1787600908~exp=1787604508~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=98576f7d7870aa026f4fd54c10366c1de69545363e189765412f4622d052236f"
+      "cookie": "__hdnea__=st=1787618909~exp=1787622509~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=73b3a50a7bdde2692c978999e5223a6d1cc78ba035121570a146205ab3d559f2"
     },
-    "expires_in": "1787604508"
+    "expires_in": "1787622509"
   },
   {
     "type": "dash",
@@ -12640,9 +12640,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd",
     "license_url": "a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2",
     "headers": {
-      "cookie": "__hdnea__=st=1787600954~exp=1787604554~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=90570ae926ad9b6457edde385265eb007b3c05f733ec2da1afc23e55cce42599"
+      "cookie": "__hdnea__=st=1787619023~exp=1787622623~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=1f6bf4b244c9b03a2a6af2d8db83fa125797db64319ac4494921d8fb944b7956"
     },
-    "expires_in": "1787604554"
+    "expires_in": "1787622623"
   },
   {
     "type": "dash",
