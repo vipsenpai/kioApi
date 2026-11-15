@@ -775,9 +775,9 @@
     "mpd_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd",
     "license_url": "8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92",
     "headers": {
-      "cookie": "__hdnea__=st=1794682258~exp=1794703858~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=f5cca87eeef23437d96240d2fadccb4e58d4e9d6e3976928c7994943ebcf3e3a"
+      "cookie": "__hdnea__=st=1794693313~exp=1794714913~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=e9ae0558cfe2b2cacf2d893150939630b8921a7bbc5ac3fc0142e9a448b71274"
     },
-    "expires_in": "1794703858"
+    "expires_in": "1794714913"
   },
   {
     "type": "dash",
@@ -10360,9 +10360,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Samachar_MOB/WDVLive/index.mpd",
     "license_url": "5a531cc96a6758c8ab7493455ca592dd:ec4a71337952c5a0d8be45fae8c6fc19",
     "headers": {
-      "cookie": "__hdnea__=st=1794682259~exp=1794703859~acl=/bpk-tv/Surya_Samachar_BTS/WDVLive/*~hmac=d6ea6a79d605f866eaf54fb3cb0122bcdb9e2131eeb84b492215893114e930d5"
+      "cookie": "__hdnea__=st=1794693314~exp=1794714914~acl=/bpk-tv/Surya_Samachar_BTS/WDVLive/*~hmac=a990db931703c7c311909f839a56f69c5b51082a6c8858ea7113c2299b63c28c"
     },
-    "expires_in": "1794703859"
+    "expires_in": "1794714914"
   },
   {
     "type": "dash",
@@ -11755,9 +11755,9 @@
     "mpd_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Shri_Hingulambika_Devi_Temple_MOB/WDVLive/index.mpd",
     "license_url": "8faf0c28dea25a7681c9313e6f769cf8:e27e218b55dc955a5f8d211160598ed6",
     "headers": {
-      "cookie": "__hdnea__=st=1794682258~exp=1794703858~acl=/bpk-tv/Shri_Hingulambika_Devi_Temple_BTS/WDVLive/*~hmac=bf76701cf9961badbf62e35fa9e4789adc0f4d100271fcbea7411d3a8cdf0545"
+      "cookie": "__hdnea__=st=1794693314~exp=1794714914~acl=/bpk-tv/Shri_Hingulambika_Devi_Temple_BTS/WDVLive/*~hmac=c3779b722c539c671f9eff158987d69efeab450215c2beda4426e8b83d3bf850"
     },
-    "expires_in": "1794703858"
+    "expires_in": "1794714914"
   },
   {
     "type": "dash",
